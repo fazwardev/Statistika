@@ -1,0 +1,14 @@
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\bin\Debug\net8.0\Statistika_Satu.exe
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\bin\Debug\net8.0\Statistika_Satu.deps.json
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\bin\Debug\net8.0\Statistika_Satu.runtimeconfig.json
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\bin\Debug\net8.0\Statistika_Satu.dll
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\bin\Debug\net8.0\Statistika_Satu.pdb
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\obj\Debug\net8.0\Statistika_Satu.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\obj\Debug\net8.0\Statistika_Satu.AssemblyInfoInputs.cache
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\obj\Debug\net8.0\Statistika_Satu.AssemblyInfo.cs
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\obj\Debug\net8.0\Statistika_Satu.csproj.CoreCompileInputs.cache
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\obj\Debug\net8.0\Statistika_Satu.dll
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\obj\Debug\net8.0\refint\Statistika_Satu.dll
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\obj\Debug\net8.0\Statistika_Satu.pdb
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\obj\Debug\net8.0\Statistika_Satu.genruntimeconfig.cache
+C:\MYFILES\13. Code\Statistika_1\Statistika_Satu_Solution\Statistika_Satu\obj\Debug\net8.0\ref\Statistika_Satu.dll
